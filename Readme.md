@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Avdonin 22PT2
 ==================================
